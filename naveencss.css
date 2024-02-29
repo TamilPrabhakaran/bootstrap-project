@@ -1,0 +1,87 @@
+
+*{
+    margin: 0;padding: 0;
+}
+body{
+    margin-top: 2rem;
+    background-color: rgb(35, 91, 164);
+    display: flex;
+    /* justify-content: center; */
+    flex-direction: column;
+    align-items: center;
+}
+h1{
+    
+    color: snow;
+    font-weight: 900;
+    text-align: center;
+    /* align-content: center ; */
+}
+.one{
+    background-color: snow;
+    color: rgb(35, 91, 164);
+    font-weight: 900;
+    text-align: center;
+    /* margin-top: 10%; */
+}
+.main{
+    border: 1px solid rgb(247, 245, 245);
+    width: 400px;
+    height:max-content;
+    /* text-align: centr; */
+    /* width: 500px */
+    background-color:snow;
+    padding: 40px ;
+    font-size:18px;
+    
+}
+.title{
+    text-align: center;
+    color: snow;
+    font-size: 30px;
+    
+}
+input{
+    width: 99%;
+    height: 8%;
+    margin-bottom: 20px;
+}
+button{
+    width: 99%;
+    height: 8%;
+    color:snow;
+    background-color: royalblue;
+}
+footer{
+    color: snow ;
+}
+
+.or::before,.or::after{
+    content: "----------";
+}
+.tamil{
+    /* width: 99%; */
+    /* height: 8%; */
+    color:snow;
+    background-color: rgb(76, 152, 228);
+    margin: 10px;
+
+}
+.aaa{
+    color: rgb(236, 7, 236);
+    
+}
+.bbbb{
+    font-size: larger;
+    margin-top: 10%;
+    /* padding: ;af */
+
+}
+.center{
+    text-align: center;
+    padding: 10px;
+}
+.button{
+    margin: 10px ;
+
+}

@@ -1,0 +1,26 @@
+.or::before,.or::after{
+    content: "----------------------";
+}
+.box{
+   width: 20vw;
+   /* border-radius: rgb(160, 21, 21); */
+   /* background-color: snow; */
+}
+.box2{
+    color: whitesmoke;
+    width: 20vw;
+    height: 7vh;
+    border-color:  rgb(26, 150, 251);
+    background-color: rgb(26, 150, 251);
+}
+.aaa{
+    color:  rgb(26, 150, 251);
+}
+.bbb{
+    width: 20vw;
+    height: 7vh;
+    color:  rgb(26, 150, 251);
+}
+.font{
+    font-size: small;
+}

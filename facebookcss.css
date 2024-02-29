@@ -1,0 +1,35 @@
+.main{
+    border: 1px solid rgb(185, 180, 180);
+    /* width: 25vw; */
+    height: 55vh;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow:0px 0px 10px gray ;
+} 
+.in{
+    width: 23vw;
+    height: 7vh;
+    border-radius: 10px;
+    border-color:rgb(219, 232, 250);
+    background-color: rgb(219, 232, 250);
+
+}
+.one{
+    border: 1px solid rgb(30, 202, 30);
+    background-color: rgb(30, 202, 30);
+    width: 12vw;
+    height: 6vh;
+    border-radius: 5px;
+}
+.inn{
+    width: 23vw;
+    height: 7vh;
+    border-radius: 10px;
+    border-color:rgb(200, 230, 245);
+    /* background-color: rgb(200, 230, 245); */
+    /* padding-top: 5px; */
+}
+.main1{
+    border: 1px solid gray;
+   
+}

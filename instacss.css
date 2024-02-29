@@ -1,0 +1,39 @@
+
+.or::before,.or::after{
+    content: "--------------";
+}
+.main{
+    overflow: hidden;
+    border: 1px solid rgb(198, 196, 196);
+    /* width: 25vw; */
+    height:60vh;
+    /* text-align: center; */
+    /* align-items: center; */
+    /* width: 500px */
+    /* background-color:snow; */
+    /* padding: 40px ; */
+    /* font-size:18px; */
+}
+.main2{
+    border: 1px solid rgb(198, 196, 196);
+    height: max-content;
+    /* margin-bottom: 20px; */
+}
+.input{
+    width: 80%;
+    height: 10%;
+    margin-bottom: 20px;
+    border: 3px solid rgb(238, 238, 238);
+    font-size: 13px;
+    background-color: rgb(238, 238, 238);
+}
+.button{
+    border: rgb(139, 139, 223);
+    border-radius: 3px;
+    width: 80%;
+    height: 8%;
+    color: whitesmoke;
+    /* border-radius: 1px solid ; */
+    /* color:snow; */
+    background-color:rgb(105, 201, 239);    
+}
